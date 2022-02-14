@@ -1,0 +1,9 @@
+{
+    "name": "Social Login",
+    "namespace": "Tec\\SocialLogin\\",
+    "provider": "Tec\\SocialLogin\\Providers\\SocialLoginServiceProvider",
+    "author": "Tec-Dynamics LTD",
+    "url": "https://tecdynamics.co.uk",
+    "version": "5.8",
+    "description": "Easier and faster login with Facebook, LinkedIn, Github or Google."
+}
